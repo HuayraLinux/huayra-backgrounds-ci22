@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+    <!-- Serie Huayra Conectar Igualdad 2022 -->
+    <wallpaper deleted="false">
+        <name>Serie Huayra Conectar Igualdad 2022 - Oficial</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-ci22/WallpaperCI_1.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+	<artist>Carolina «Chinchi» Hortal, Claudio «Maléfico» Andaur</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Huayra Conectar Igualdad - 2</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-ci22/WallpaperCI_2.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+	<artist>Carolina «Chinchi» Hortal, Claudio «Maléfico» Andaur</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Huayra Conectar Igualdad 2022 - 3</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-ci22/WallpaperCI_3.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+	<artist>Carolina «Chinchi» Hortal, Claudio «Maléfico» Andaur</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Huayra Conectar Igualdad 2022 - 4</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-ci22/WallpaperCI_4.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+	<artist>Carolina «Chinchi» Hortal, Claudio «Maléfico» Andaur</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Huayra Conectar Igualdad - 5</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-ci22/WallpaperCI_5.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+	<artist>Carolina «Chinchi» Hortal, Claudio «Maléfico» Andaur</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Huayra Conectar Igualdad - Homenaje</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-ci22/Wallpaper_Sacaloneta.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+	<artist>Claudio «Maléfico» Andaur</artist>
+    </wallpaper>
+</wallpapers>

@@ -1,0 +1,14 @@
+Source: huayra-backgrounds-ci22
+Section: graphics
+Priority: extra
+Maintainer: Matias De lellis <mati86dl@gmail.com>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-ci22
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-ci22.git
+
+Package: huayra-backgrounds-ci22
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de escritorio de Huayra para Conectar Igualdad 2022
+ Pack de fondos de escritorio oficial de Huayra para Conectar Igualdad 2022
